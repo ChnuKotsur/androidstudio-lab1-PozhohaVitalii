@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#C5CACD</color>
+    <color name="colorPrimaryDarkAU">#90b4d9</color>
+    <color name="colorPrimaryDarkKE">#1e5788</color>
+    <color name="colorPrimaryDarkFR">#d4f2fd</color>
+    <color name="colorPrimaryDarkKW">#7a8295</color>
+    <color name="navigationBar">#FB8C00</color>
 </resources>

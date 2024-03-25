@@ -1,3 +1,88 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name" translatable="false">South_Korea</string>
+    <string name="Gimn" translatable="false">동해물과 백두산이 \n
+마르고 닳도록 \n
+하느님이 보우하사 \n
+우리 나라만세 \n\n
+        무궁화 \n
+삼천리 화려강산\n
+대한사람 대한으로\n
+길이 보전하세\n\n
+        남산 위에 저소나무\n
+철갑을 두른 듯\n
+바람 서리 불변함은\n
+우리 기상일세\n\n
+        무궁화\n
+삼천리 화려강산\n
+대한사람 대한으로\n
+길이 보전하세\n
+
+    </string>
+    <string name="Gimn1" translatable="false">
+         Допоки води Східного моря\n не висохнуть,\n
+А гора Пекту не розсиплеться\n
+Хай славиться вічно\n Наша країна,\n
+Яку береже Господь!\n\n\n
+Шаронські троянди\n
+На тисячі миль по всюди —\n
+Гей, корейці, захистимо навіки\n
+Велику Корею!\n\n\n
+Як сосна вікова на\n Південній горі\n
+опирається вітру і снігу\n
+В обладунках залізних\n
+Так і дух наш буде незламним!\n\n\n\n
+        Шаронські троянди\n
+На тисячі миль по всюди —\n
+Гей, корейці, захистимо навіки\n
+Велику Корею!\n\n\n
+    </string>
+
+    <string name="Gima" translatable="false">
+        Australians all let\nus rejoice,\nFor we are young\nand free;\nWe’ve golden soil\nand wealth for toil,\nOur home is girt\nby sea;\nOur land abounds\nin Nature’s gifts\nOf beauty rich and\nrare;\nIn history’s page,\nlet every stage\nAdvance Australia\nfair!\nIn joyful strains\nthen let us sing,\n«Advance Australia\nfair!»\n
+    </string>
+    <string name="Gima1" translatable="false">\tУсі австралійці, радіймо,\n\n\n\tБо ми молоді та вільні;\n\n\tМи маємо золотий ґрунт\n\tі багатства за працю,\n\tНаш будинок оперезаний\n\tпо морю;\n\n\tНаша земля багата\n\tна дари природи\n\tДуже красиві та рідкі;\n\n\tНа сторінці історії\n\tпоетапно\n\n\tРозвивайся, прекрасна\n\tАвстраліє!\n\tКоли серце кричить,\n\tспіваймо\n\t«Розвивайся, прекрасна\n\tАвстраліє!»\n
+    </string>
+
+    <string name="Gimf" translatable="false">
+        Allons enfants de\nla Patrie,\nle jour de gloire\nest arrivé\nContre nous de\nla tyrannie\nL\'étendard sanglant\nest levé.\nL\'étendard sanglant\nest levé.\nEntendez-vous dans\nnos campagnes\nMugir ces féroces soldats!\nQui viennent jusque\ndans vos bras\nÉgorger vos fils et\nvos compagnes.\nAux armes citoyens,\nFormez vos bataillons.\nMarchons! Marchons!\n
+    </string>
+    <string name="Gimf1" translatable="false">\tГей, діти рідної\n\tкраїни,\n\n\tХодім — настав\n\tславетний час!\n\tБо лютий ворог\n\tстяг руїни\n\tВже розгортає\n\tпроти нас.\n\tВже розгортає\n\tпроти нас.\n\n\tВам чути, як\n\tздаля лунає\n\n\tТой рев шалених вояків\n\n\tІде, іде проклята зграя,\n\n\tЩоб ваших нищити синів.!\n\n\tГромадо, в бій ставай!\n\n\tДо лав, батьки й сини!\n\n\tРушай! \n\tРушай!\n
+    </string>
+    <string name = "Gimke" translatable="false">Ee Mungu nguvu yetu\nIlete baraka kwetu\nHaki iwe ngao\nna mlinzi\nNatukae na undugu\nAmani na uhuru\nRaha tupate na\nustawi.\nAmkeni ndugu zetu\nTufanye sote bidii\nNasi tujitoe kwa\nnguvu\nNchi yetu ya Kenya\n
+    </string>
+    <string name = "Gimke1" translatable="false">\tO God of all creation,\n\n\tBless this our land\n\tand nation.\n\tJustice be our shield\n\tand defender,\n\tMay we dwell in unity,\n\tPeace and liberty.\n\tPlenty be found within\n\tour borders.\n\tLet one and all arise,\n\tWith hearts both\n\tstrong and true.\n\tService be our\n\tearnest endeavour,\n\tAnd our Homeland of Kenya,\n\t
+    </string>
+    <string name = "Gimkw" translatable="false">وطني الكويت سلمت للمجد
+    وعلى جبينك طالع السعد n\
+\n وطني الكويت
+        \n وطني الكويت
+        \n وطني الكويت سلمت للمجد
+        \n يا مهد آباءالأولى كتبوا
+        \n سفرالخلود فنادت الشهب
+        \n الله أكبر إنهم عرب
+        \n طلعت كواكب جنة الخلد
+    </string>
+    <string name = "Gimkw1" translatable="false">Моя батьківщина, Кувейт,\n
+         була доставлена до слави\n
+        і на твоєму чолі\n
+        підйом щастя\n\n
+        Моя батьківщина, Кувейт\n
+        Моя батьківщина, Кувейт\n
+        Моя батьківщина, Кувейт,\n
+        була доставлена до слави\n\n
+        О колиско прабатьків,\n
+        вони написали книгу вічності,\n
+        так метеори називаються\n\n
+        Бог великий, вони араби\n
+        Зійшли зорі раю оцту\n
+
+    </string>
+    <string-array name="countries" translatable="false">
+        <item>South-Korea</item>
+        <item>Australia</item>
+        <item>Kenya</item>
+        <item>France</item>
+        <item>Kuwait</item>
+    </string-array>
+
 </resources>
